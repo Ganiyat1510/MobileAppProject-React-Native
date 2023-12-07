@@ -39,6 +39,8 @@ Welcome to the ROI Staff Directory Android Application! This mobile app is desig
 
 3. Build and run the application on an Android device or emulator.
 
+4. Remember to change the localhost to 10.0.2.2 before using on android emulator.
+
 ## Requirements
 
 - Android Studio 4.0 or higher
