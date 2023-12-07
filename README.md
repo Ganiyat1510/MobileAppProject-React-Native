@@ -37,7 +37,7 @@ Welcome to the ROI Staff Directory Android Application! This mobile app is desig
 
 2. Open the project in Android Studio.
 
-3. Build and run the application on an Android device.
+3. Build and run the application on an Android device or emulator.
 
 ## Requirements
 
