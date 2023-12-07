@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Employee Id="1">
+    <Name> John Smith</Name>
+    <Phone>02 9988 2211</Phone>
+    <Department>1</Department>
+    <Address Street="1 Code Lane "></Address>
+    <Address City="Javaville"></Address>
+    <Address State="NSW"></Address>
+    <Address ZIP="">0100</Address>
+    <Address Country="Australia"></Address>
+  </Employee>
+  <Employee Id="2">
+    <Name> Sue White</Name>
+    <Phone>03 8899 2255 </Phone>
+    <Department> 2 </Department>
+    <Address Street="16 Bit Way "></Address>
+    <Address City="Byte Cove "></Address>
+    <Address State="QLD"></Address>
+    <Address ZIP="1101"></Address>
+    <Address Country="Australia"></Address>
+  </Employee>
+  <Employee Id="3">
+    <Name> Bob O'Bits</Name>
+    <Phone>05 7788 2255</Phone>
+    <Department>3</Department>
+    <Address Street="8 Silicon Road "></Address>
+    <Address City="Cloud Hills "></Address>
+    <Address State="VIC"></Address>
+    <Address ZIP="1001"></Address>
+    <Address Country="Australia"></Address>
+  </Employee>
+  <Employee Id="4">
+    <Name>Mary Blue</Name>
+    <Phone>06 4455 9988 </Phone>
+    <Department> 2 </Department>
+    <Address Street="4 Processor Boulevard "></Address>
+    <Address City="Appletson "></Address>
+    <Address State="NT"></Address>
+    <Address ZIP="1010"></Address>
+    <Address Country="Australia"></Address>
+  </Employee>
+  <Employee Id="5">
+    <Name>Mick Green</Name>
+    <Phone>02 9988 1122 </Phone>
+    <Department> 3 </Department>
+    <Address Street="700 Bandwidth Street "></Address>
+    <Address City="Bufferland "></Address>
+    <Address State="NSW"></Address>
+    <Address ZIP="0110"></Address>
+    <Address Country="Australia"></Address>
+  </Employee>
+  <Employee Id="6">
+    <Name>Ganiyat</Name>
+    <Phone>11223344</Phone>
+    <Department>1</Department>
+    <Street>Reeves Crescent</Street>
+    <City>Sydney</City>
+    <State>NSW</State>
+    <ZIP>2177</ZIP>
+    <Country>Australia</Country>
+  </Employee>
+  <Employee Id="7">
+    <Name>Ganiyat</Name>
+    <Phone>11223344</Phone>
+    <Department>1</Department>
+    <Street>Reeves Crescent</Street>
+    <City>Sydney</City>
+    <State>NSW</State>
+    <ZIP>2177</ZIP>
+    <Country>Australia</Country>
+  </Employee>
+</Employees>

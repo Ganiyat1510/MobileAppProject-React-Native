@@ -1,0 +1,370 @@
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\webServiceHelloWorld.dll.config
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\webServiceHelloWorld.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\webServiceHelloWorld.pdb
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csc.exe
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csc.exe.config
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csc.rsp
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csi.exe
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csi.exe.config
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csi.rsp
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.Managed.Core.targets
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.AppContext.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Collections.Immutable.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Console.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Globalization.Calendars.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.IO.Compression.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.IO.FileSystem.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Net.Http.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Net.Sockets.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Reflection.Metadata.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.ValueTuple.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Xml.XmlDocument.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Xml.XPath.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\vbc.exe
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\vbc.exe.config
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\vbc.rsp
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\VBCSCompiler.exe
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\VBCSCompiler.exe.config
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\Antlr3.Runtime.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\AspNet.ScriptManager.bootstrap.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\AspNet.ScriptManager.jQuery.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.ScriptManager.WebForms.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.Web.Infrastructure.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\Newtonsoft.Json.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\System.Web.Optimization.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\WebGrease.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\System.Web.Optimization.xml
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\Newtonsoft.Json.xml
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\Antlr3.Runtime.pdb
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\obj\Debug\webServiceHelloWorld.csproj.AssemblyReference.cache
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\obj\Debug\webServiceHelloWorld.csproj.CoreCompileInputs.cache
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\obj\Debug\webServiceHelloWorld.csproj.CopyComplete
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\obj\Debug\webServiceHelloWorld.dll
+E:\2022 s1 OOP Demo\webServiceHelloWorld\webServiceHelloWorld\obj\Debug\webServiceHelloWorld.pdb
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\webServiceHelloWorld.dll.config
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\webServiceHelloWorld.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\webServiceHelloWorld.pdb
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csc.exe
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csc.exe.config
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csc.rsp
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csi.exe
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csi.exe.config
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csi.rsp
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.Managed.Core.targets
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.AppContext.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Collections.Immutable.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Console.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Globalization.Calendars.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.IO.Compression.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.IO.FileSystem.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Net.Http.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Net.Sockets.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Reflection.Metadata.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.ValueTuple.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Xml.XmlDocument.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Xml.XPath.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\vbc.exe
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\vbc.exe.config
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\vbc.rsp
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\VBCSCompiler.exe
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\VBCSCompiler.exe.config
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\Antlr3.Runtime.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\AspNet.ScriptManager.bootstrap.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\AspNet.ScriptManager.jQuery.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.ScriptManager.WebForms.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.Web.Infrastructure.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\Newtonsoft.Json.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\System.Web.Optimization.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\WebGrease.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\System.Web.Optimization.xml
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\Newtonsoft.Json.xml
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\Antlr3.Runtime.pdb
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\obj\Debug\webServiceHelloWorld.csproj.AssemblyReference.cache
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\obj\Debug\webServiceHelloWorld.csproj.CoreCompileInputs.cache
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\obj\Debug\webServiceHelloWorld.csproj.CopyComplete
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\obj\Debug\webServiceHelloWorld.dll
+C:\books\b\webServiceHelloWorld\webServiceHelloWorld\obj\Debug\webServiceHelloWorld.pdb
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\webServiceHelloWorld.dll.config
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\webServiceHelloWorld.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\webServiceHelloWorld.pdb
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csc.exe
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csc.exe.config
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csc.rsp
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csi.exe
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csi.exe.config
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csi.rsp
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.Managed.Core.targets
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.AppContext.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Collections.Immutable.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Console.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Globalization.Calendars.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.IO.Compression.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.IO.FileSystem.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Net.Http.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Net.Sockets.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Reflection.Metadata.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.ValueTuple.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Xml.XmlDocument.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Xml.XPath.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\vbc.exe
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\vbc.exe.config
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\vbc.rsp
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\VBCSCompiler.exe
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\VBCSCompiler.exe.config
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\Antlr3.Runtime.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\AspNet.ScriptManager.bootstrap.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\AspNet.ScriptManager.jQuery.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.ScriptManager.WebForms.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.Web.Infrastructure.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\Newtonsoft.Json.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\System.Web.Optimization.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\WebGrease.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\System.Web.Optimization.xml
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\Newtonsoft.Json.xml
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\Antlr3.Runtime.pdb
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\obj\Debug\webServiceHelloWorld.csproj.AssemblyReference.cache
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\obj\Debug\webServiceHelloWorld.csproj.CoreCompileInputs.cache
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\obj\Debug\webServiceHelloWorld.csproj.CopyComplete
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\obj\Debug\webServiceHelloWorld.dll
+C:\bk\b\b\webServiceHelloWorld\webServiceHelloWorld\obj\Debug\webServiceHelloWorld.pdb
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\webServiceHelloWorld.dll.config
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\webServiceHelloWorld.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\webServiceHelloWorld.pdb
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csc.exe
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csc.exe.config
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csc.rsp
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csi.exe
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csi.exe.config
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csi.rsp
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.Managed.Core.targets
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.AppContext.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Collections.Immutable.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Console.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Globalization.Calendars.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.IO.Compression.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.IO.FileSystem.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Net.Http.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Net.Sockets.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Reflection.Metadata.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.ValueTuple.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Xml.XmlDocument.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Xml.XPath.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\vbc.exe
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\vbc.exe.config
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\vbc.rsp
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\VBCSCompiler.exe
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\VBCSCompiler.exe.config
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\Antlr3.Runtime.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\AspNet.ScriptManager.bootstrap.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\AspNet.ScriptManager.jQuery.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.ScriptManager.WebForms.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.Web.Infrastructure.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\Newtonsoft.Json.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\System.Web.Optimization.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\WebGrease.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\System.Web.Optimization.xml
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\Newtonsoft.Json.xml
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\Antlr3.Runtime.pdb
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\obj\Debug\webServiceHelloWorld.csproj.AssemblyReference.cache
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\obj\Debug\webServiceHelloWorld.csproj.CoreCompileInputs.cache
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\obj\Debug\webServiceHelloWorld.csproj.CopyComplete
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\obj\Debug\webServiceHelloWorld.dll
+C:\bk\be\webServiceHelloWorld\webServiceHelloWorld\obj\Debug\webServiceHelloWorld.pdb
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\webServiceHelloWorld.dll.config
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\webServiceHelloWorld.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\webServiceHelloWorld.pdb
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csc.exe
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csc.exe.config
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csc.rsp
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csi.exe
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csi.exe.config
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\csi.rsp
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.Managed.Core.targets
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.AppContext.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Collections.Immutable.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Console.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Globalization.Calendars.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.IO.Compression.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.IO.FileSystem.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Net.Http.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Net.Sockets.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Reflection.Metadata.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.ValueTuple.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Xml.XmlDocument.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Xml.XPath.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\vbc.exe
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\vbc.exe.config
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\vbc.rsp
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\VBCSCompiler.exe
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\roslyn\VBCSCompiler.exe.config
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\Antlr3.Runtime.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\AspNet.ScriptManager.bootstrap.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\AspNet.ScriptManager.jQuery.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.ScriptManager.WebForms.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.Web.Infrastructure.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\Newtonsoft.Json.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\System.Web.Optimization.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\WebGrease.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\System.Web.Optimization.xml
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\Newtonsoft.Json.xml
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\Antlr3.Runtime.pdb
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\obj\Debug\webServiceHelloWorld.csproj.AssemblyReference.cache
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\obj\Debug\webServiceHelloWorld.csproj.CoreCompileInputs.cache
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\obj\Debug\webServiceHelloWorld.csproj.CopyComplete
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\obj\Debug\webServiceHelloWorld.dll
+F:\TAFE PROGRAMMING\MOBILE\BackEnd\webServiceHelloWorld\webServiceHelloWorld\obj\Debug\webServiceHelloWorld.pdb
